@@ -1,4 +1,4 @@
 # demo-gitflow
 
-mi primera feature
+mi segunda feature
 mi tercera feature
